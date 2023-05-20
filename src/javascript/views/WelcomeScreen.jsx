@@ -14,7 +14,7 @@ export default class WelcomeScreen extends PureComponent {
     return (
       <div className="WelcomeScreen">
         <Button
-          text="Start ADC Space Synth 2021"
+          text="Start ADC SpaceSynth 2021"
           handleClick={handleStartWebAudio}
         />
       </div>
