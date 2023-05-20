@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  user-select: none;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  font-family: 'PT Root UI';
+  background: var(--black);
+  color: var(--white);
+}
+
+#synth {
+  display: flex;
+  width: 100%;
+}
