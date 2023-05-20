@@ -31548,7 +31548,7 @@ var WelcomeScreen = /*#__PURE__*/function (_PureComponent) {
       return /*#__PURE__*/react.createElement("div", {
         className: "WelcomeScreen"
       }, /*#__PURE__*/react.createElement(Button, {
-        text: "Start ADC Space Synth 2021",
+        text: "Start ADC SpaceSynth 2021",
         handleClick: handleStartWebAudio
       }));
     }
